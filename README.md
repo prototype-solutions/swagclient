@@ -20,4 +20,4 @@ selling vibecoded clients
 
 # credits:
 - cursor for coding this client instead of the devs
-- themida which did not work at all
+- dropbox for letting me download the source code without needing to buy anything
